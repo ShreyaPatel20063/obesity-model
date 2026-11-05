@@ -55,7 +55,7 @@ per day) are fractional. Scores on this dataset may not carry over to real surve
 
 ## c. GitHub repository link
 
-`<GITHUB_REPO_LINK_HERE>` (placeholder, to be filled after pushing)
+https://github.com/ShreyaPatel20063/obesity-model
 
 Live app: https://obesity-model.streamlit.app/
 
