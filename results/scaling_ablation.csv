@@ -1,0 +1,3 @@
+ML Model Name,Accuracy (scaled),Accuracy (unscaled)
+K-Nearest Neighbors,0.7578,0.741
+Support Vector Machine,0.7794,0.4532

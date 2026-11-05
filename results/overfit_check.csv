@@ -1,0 +1,6 @@
+ML Model Name,Train Accuracy,Test Accuracy,Gap
+Logistic Regression,0.5958,0.6139,-0.0181
+Decision Tree,1.0,0.7386,0.2614
+K-Nearest Neighbors,0.821,0.7578,0.0632
+Naive Bayes,0.4306,0.4221,0.0086
+Support Vector Machine,0.842,0.7794,0.0627
