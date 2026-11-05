@@ -5,3 +5,4 @@ __pycache__/
 # assignment brief, not part of the deliverable
 prompt.md
 ML_Assignment_2_*.pdf
+.playwright-mcp/
